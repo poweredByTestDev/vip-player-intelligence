@@ -1,0 +1,43 @@
+{
+  "dialogId": "D007",
+  "sourceHash": "a09edd9d23eadc7a51c0116124242027b1e9fa07673d873a0c6f1eb5ab51e6c1",
+  "analysisVersion": "1.1",
+  "tasks": [
+    {
+      "id": "479ce455a2f3f72ee4f5",
+      "dialogId": "D007",
+      "action": "Поддерживать высокий уровень сервиса при работе с VIP-игроками.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "920b041ebef27c3dd961",
+      "dialogId": "D007",
+      "action": "Следить за своевременным информированием игроков о необходимых документах для выплат.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "c19ba77020bee27ce9cd",
+      "dialogId": "D007",
+      "action": "Убедиться в автоматизации уведомлений, чтобы игроки сразу получали запросы по документам.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "d18fae9ae4eb94382e70",
+      "dialogId": "D007",
+      "action": "Продолжать персонализированный подход в общении для укрепления лояльности.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "dialogId": "D010",
+  "sourceHash": "9b77f65200bfb0b4d5fc58cd4b5cb32dbc4fe7107a559c64424de355f697242f",
+  "analysisVersion": "1.1",
+  "tasks": [
+    {
+      "id": "b1f04b9bd6c227ee9b90",
+      "dialogId": "D010",
+      "action": "Немедленно заблокировать аккаунт игрока по его просьбе.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "b12581e68ff35e009d80",
+      "dialogId": "D010",
+      "action": "Обеспечить документированное подтверждение выполнения запроса игроку.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "b4ab5e19c276b57d898f",
+      "dialogId": "D010",
+      "action": "Провести дополнительное обучение менеджера по принципам ответственной игры, особенно в ситуациях запросов на самоисключение.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "4c37d3fd123b81d37d24",
+      "dialogId": "D010",
+      "action": "Проверить процедуры поддержки самоисключения и упростить их для VIP-игроков.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "3ea98ce9a99f74e45ad2",
+      "dialogId": "D010",
+      "action": "Оценить состояние игрока и при необходимости предложить специализированную помощь по ответственному гемблингу.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    }
+  ]
+}

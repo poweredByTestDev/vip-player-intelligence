@@ -1,0 +1,43 @@
+{
+  "dialogId": "D001",
+  "sourceHash": "54f3e1bc309f949ff587e31e2528bc1a984a9e0bcf76e30623731afdce078e41",
+  "analysisVersion": "1.1",
+  "tasks": [
+    {
+      "id": "e6a92c1c6842f702b8d8",
+      "dialogId": "D001",
+      "action": "Провести техническую проверку проблемы с депозитом игрока.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "393e1f51de8ab11933dd",
+      "dialogId": "D001",
+      "action": "Сообщить игроку о результатах проверки и возможных решениях.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "46967394ef5ad590be5d",
+      "dialogId": "D001",
+      "action": "Обучить менеджера более непосредственно реагировать на технические проблемы игроков и не предлагать бонусы вместо помощи.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    },
+    {
+      "id": "5956f3e530988dd1cba9",
+      "dialogId": "D001",
+      "action": "Рассмотреть внедрение механизмов для более быстрой реакции на проблемы с платежами.",
+      "status": "todo",
+      "comment": "",
+      "updatedAt": null,
+      "critical": false
+    }
+  ]
+}
